@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IntroAndroidApp</string>
+    <string name="app_name">Temperature Converter App</string>
     <string name="degFah">Degrees Fahrenheit</string>
     <string name="degCel">Degrees Celsius</string>
     <string name="degKel">Degrees Kelvin</string>
