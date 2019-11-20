@@ -28,13 +28,13 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
         TextView lblOutput = (TextView) findViewById(R.id.lblOutput);
         switch (checkedId){
             case R.id.btnDegF:
-                lblOutput.setText("You chose Fahrenheit");
+                lblOutput.setText("You chose Fahrenheit!");
                 break;
             case R.id.btnDegC:
-                lblOutput.setText("You chose Celsius");
+                lblOutput.setText("You chose Celsius!");
                 break;
             case R.id.btnDegK:
-                lblOutput.setText("You chose Kelvin");
+                lblOutput.setText("You chose Kelvin!");
                 break;
         }
     }
