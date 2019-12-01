@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MainMenuActivity</string>
+    <string name="Welcome">Welcome to Josh Cannedy\'s App</string>
+    <string name="goWeather">Convert\nTemp</string>
+    <string name="goTicTacToe">Tic Tac Toe</string>
+    <string name="goInfo">Info</string>
+    <string name="goMusic">Favorite\nSong</string>
+    <string name="goTakePic">Take\nPicture</string>
+    <string name="goDraw">My\nDrawing</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+</resources>
