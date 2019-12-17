@@ -1,5 +1,7 @@
 package com.example.mainmenuactivity;
 
+import com.example.mainmenu.MainMenu;
+import com.example.mainmenu.MyPicture;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import androidx.appcompat.app.AppCompatActivity;
@@ -17,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_weather);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
         //Add a listener to the button to take you here
         Button btnPic = (Button) findViewById(R.id.btnPic);
         btnPic.setOnClickListener(new View.OnClickListener(){
@@ -31,13 +34,15 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener(){
 
             @Override
-            public void onClick(View view){
+            public void onClick(View view)
+                {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
-        });
+    });
     }
-    private void goPicture(){
+    private void goPicture()
+    {
         Intent intent = new Intent(MainMenu.this, MyPicture.class);
         this.startActivity(intent);
     }
