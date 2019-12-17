@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c812eb7f-9c09-492a-bf27-e69a7478a387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/java/com/example/week4lab/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/java/com/example/week4lab/MyPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/res/layout/activity_main_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/res/layout/activity_my_picture.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/res/layout/content_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/res/layout/content_main_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4Lab/app/src/main/res/layout/content_my_picture.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainMenu/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMenu/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainMenu/app/src/main/java/com/example/mainmenu/WeatherActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMenu/app/src/main/java/com/example/mainmenu/WeatherActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainMenu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMenu/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="c812eb7f-9c09-492a-bf27-e69a7478a387" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +12,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mediaPlayer/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -43,6 +36,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -60,7 +54,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,6 +87,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32982087" />
@@ -147,7 +141,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mediaPlayer/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
