@@ -2,5 +2,8 @@
     <string name="app_name">Lyric Genie</string>
     <string name="title_home">Lyric Genie Home</string>
     <string name="title_dashboard">Lyric Search</string>
-    <string name="title_notifications">Account Settings</string>
+    <string name="title_notifications">Account Settings</string>\
+    <string name="link">
+        <a href="jc1989.github.io/LyricGenieHost/LyricGenie/index.html">Lyric Genie Website Home</a>
+    </string>
 </resources>
